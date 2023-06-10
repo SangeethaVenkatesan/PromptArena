@@ -1,0 +1,17 @@
+Main prompt:
+Let's write abstract descriptions of sentences. Example:
+
+Sentence: Pilate's role in the events leading to the crucifixion lent themselves to melodrama, even tragedy, and Pilate often has a role
+in medieval mystery plays. 
+
+Description: A description of a historical religious figure's involvement in a significant event and its later portrayal in art.
+
+Note: Descriptions can differ in the level of abstraction, granularity and the part of the sentence they focus on. Some descriptions
+need to be abstract, while others should be concrete and detailed.
+
+For the following sentence, write up 5 good and stand-alone, independent descriptions and 5 bad descriptions (which may be related,
+but are clearly wrong). Output a json file with keys 'good', 'bad'.
+
+Sentence: {sentence}
+
+Start your answer with a curly bracket. 
