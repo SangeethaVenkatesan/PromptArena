@@ -1,0 +1,11 @@
+1) Create a persona if needed for the prompt
+2) Use delimiter and step by step instructions
+3) Use the following step-by-step instructions step-1, step-2
+4) Answer in a consistent style
+5) Answer using reference text 
+6) Use the provided articles delimited by triple quotes to answer questions. If the answer cannot be found in articles, write
+"I could not find answer"
+7) Split complex task into simple sub tasks
+8) Summarize the dialog, keep self notes, dynamically select previous conversations
+9) Summarize parts recursively. 
+10) Giving GPT Time to think
